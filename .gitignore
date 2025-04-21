@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp
+*.db
+.env
+.venv/
+*.ipynb_checkpoints/
+embeddings/
+results/
+clips/
